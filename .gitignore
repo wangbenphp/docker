@@ -1,0 +1,7 @@
+/.idea
+/.vagrant
+.env
+.DS_Store
+.svn
+.git
+node_modules
